@@ -1,4 +1,4 @@
-import { Container, Button, Nav, Navbar as NavbarBs, Card } from "react-bootstrap"
+import { Container, Button, Nav, Navbar as NavbarBs } from "react-bootstrap"
 import { NavLink } from "react-router-dom"
 import { useShoppingCart } from "../context/ShoppingCartContext"
 
